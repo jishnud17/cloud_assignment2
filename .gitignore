@@ -1,2 +1,26 @@
+# Data files
 moviedata.json
+
+# Environment
 .env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# AWS
+.aws/
